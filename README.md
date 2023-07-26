@@ -10,4 +10,4 @@
 - через форму поиска тура,производится отправка данных на тестовый сайт https://jsonplaceholder.typicode.com с указанием описания данных из каждого input-a.
 
 
-![1920](https://github.com/doctorveb292/evklid__weblayout/raw/main/1920LagoonaMaket.png)
+![1920](https://github.com/doctorveb292/lagoona_weblayout/raw/main/1920LagoonaMaket.png)
