@@ -11,7 +11,7 @@
         gap: 20px;
     }
 
-    .header-btn-1, 
+    .header-btn-1,
     .header-btn-2 {
         padding: 7px 10px;
     }
@@ -94,23 +94,23 @@
         top: 0;
         left: 0;
     }
-    
+
     .burger__line:nth-child(2) {
         top: 45%;
         left: 0;
     }
-    
+
     .burger__line:last-child {
         bottom: 0;
         left: 0;
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:nth-child(2) {
         opacity: 0;
-    } 
+    }
 
-    .burger--active 
+    .burger--active
     .burger__line:first-child {
         left: 25%;
         top: 50%;
@@ -120,7 +120,7 @@
         background-color: var(--main-btn-color);
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:last-child {
         bottom: auto;
         left: 25%;
@@ -165,7 +165,7 @@
         transform: none;
     }
 
-    .header-btn-1, 
+    .header-btn-1,
     .header-btn-2 {
         margin: 0 auto;
     }
@@ -297,23 +297,23 @@
         top: 0;
         left: 0;
     }
-    
+
     .burger__line:nth-child(2) {
         top: 45%;
         left: 0;
     }
-    
+
     .burger__line:last-child {
         bottom: 0;
         left: 0;
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:nth-child(2) {
         opacity: 0;
-    } 
+    }
 
-    .burger--active 
+    .burger--active
     .burger__line:first-child {
         left: 25%;
         top: 50%;
@@ -323,7 +323,7 @@
         background-color: var(--main-btn-color);
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:last-child {
         bottom: auto;
         left: 25%;
@@ -368,7 +368,7 @@
         transform: none;
     }
 
-    .header-btn-1, 
+    .header-btn-1,
     .header-btn-2 {
         margin: 0 auto;
     }
@@ -395,7 +395,7 @@
         line-height: 100%;
     }
 
-    .item-1, 
+    .item-1,
     .item-2 {
         min-height: 225px;
     }
@@ -461,7 +461,7 @@
         padding: 25px;
     }
 
-    .departure-info, 
+    .departure-info,
     .accommodation-info {
         width: 100%;
     }
@@ -497,7 +497,7 @@
         background-position: bottom right 25px;
     }
 
-    .f-item-1, 
+    .f-item-1,
     .f-item-2 {
         margin-bottom: 25px;
         max-width: 100%;
@@ -589,23 +589,23 @@
         top: 0;
         left: 0;
     }
-    
+
     .burger__line:nth-child(2) {
         top: 45%;
         left: 0;
     }
-    
+
     .burger__line:last-child {
         bottom: 0;
         left: 0;
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:nth-child(2) {
         opacity: 0;
-    } 
+    }
 
-    .burger--active 
+    .burger--active
     .burger__line:first-child {
         left: 25%;
         top: 50%;
@@ -615,7 +615,7 @@
         background-color: var(--main-btn-color);
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:last-child {
         bottom: auto;
         left: 25%;
@@ -660,7 +660,7 @@
         transform: none;
     }
 
-    .header-btn-1, 
+    .header-btn-1,
     .header-btn-2 {
         margin: 0 auto;
     }
@@ -695,7 +695,7 @@
         margin-bottom: 25px;
     }
 
-    .item-1, 
+    .item-1,
     .item-2 {
         min-height: 190px;
     }
@@ -813,7 +813,7 @@
         padding: 0 10px;
     }
 
-    .departure-info, 
+    .departure-info,
     .accommodation-info {
         width: 100%;
     }
@@ -906,7 +906,7 @@
     }
 
     .footer-items-left {
-        padding: 20px 20px 0 20px;
+        padding: 20px 10px 0 10px;
         max-width: 90%;
     }
 
@@ -985,23 +985,23 @@
         top: 0;
         left: 0;
     }
-    
+
     .burger__line:nth-child(2) {
         top: 45%;
         left: 0;
     }
-    
+
     .burger__line:last-child {
         bottom: 0;
         left: 0;
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:nth-child(2) {
         opacity: 0;
-    } 
+    }
 
-    .burger--active 
+    .burger--active
     .burger__line:first-child {
         left: 25%;
         top: 50%;
@@ -1011,7 +1011,7 @@
         background-color: var(--main-btn-color);
     }
 
-    .burger--active 
+    .burger--active
     .burger__line:last-child {
         bottom: auto;
         left: 25%;
@@ -1056,7 +1056,7 @@
         transform: none;
     }
 
-    .header-btn-1, 
+    .header-btn-1,
     .header-btn-2 {
         margin: 0 auto;
     }
@@ -1091,7 +1091,7 @@
         margin-bottom: 25px;
     }
 
-    .item-1, 
+    .item-1,
     .item-2 {
         min-height: 190px;
     }
@@ -1209,7 +1209,7 @@
         padding: 0 10px;
     }
 
-    .departure-info, 
+    .departure-info,
     .accommodation-info {
         width: 100%;
     }
@@ -1302,7 +1302,7 @@
     }
 
     .footer-items-left {
-        padding: 20px 20px 0 20px;
+        padding: 20px 10px 0 10px;
         max-width: 90%;
     }
 
